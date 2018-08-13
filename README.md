@@ -1,0 +1,2 @@
+# calculate_short_text_similarity
+用过CNN计算短文本的相似性
